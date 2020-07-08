@@ -8,7 +8,7 @@
           href="https://vuejs.org"
           target="_blank"
         >
-          Core Docs
+          主要代码
         </a>
       </li>
       <li>
@@ -24,7 +24,7 @@
           href="https://chat.vuejs.org"
           target="_blank"
         >
-          Community Chat
+          微信
         </a>
       </li>
       <li>
@@ -32,7 +32,7 @@
           href="https://twitter.com/vuejs"
           target="_blank"
         >
-          Twitter
+          微博
         </a>
       </li>
       <br>
@@ -41,7 +41,7 @@
           href="http://vuejs-templates.github.io/webpack/"
           target="_blank"
         >
-          Docs for This Template
+          webpack
         </a>
       </li>
     </ul>
